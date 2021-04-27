@@ -18,7 +18,7 @@ Code | Paper(s)
 ---- | --------
 [CHIMERA](https://github.com/mrline/CHIMERA) | [Line, M. R. et al., 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...775..137L/abstract)
 [TauREx](https://github.com/ucl-exoplanets/TauREx_public) | [Waldmann, I. P. et al., 2015a](https://ui.adsabs.harvard.edu/abs/2015ApJ...802..107W/abstract), [Waldmann, I. P. et al., 2015b](https://ui.adsabs.harvard.edu/abs/2015ApJ...813...13W/abstract)
-[BART](https://github.com/exosports/BART) | [Cubillos, P. E., 2016](https://ui.adsabs.harvard.edu/abs/2016arXiv160401320C/abstract)
+[BART](https://github.com/exosports/BART) | [Cubillos, P. E., 2016](https://ui.adsabs.harvard.edu/abs/2016arXiv160401320C/abstract), [Harrington, J. et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210412522H/abstract), [Cubillos, P. E. et al. 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210412524C/abstract), [Blecic, J. et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210412525B/abstract)
 [PLATON](https://github.com/ideasrule/platon) | [Zhang, M. et al., 2019](https://ui.adsabs.harvard.edu/abs/2019PASP..131c4501Z/abstract), [Zhang, M. et al., 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...899...27Z/abstract)
 [petitRADTRANS](https://gitlab.com/mauricemolli/petitRADTRANS) | [Mollière, P. et al., 2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..67M/abstract)
 [Helios-r2](https://github.com/exoclime/Helios-r2) | [Kitzmann, D. et al., 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...890..174K/abstract)
