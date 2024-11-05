@@ -12,7 +12,7 @@ The retrieval tutorial uses the open source [PLATON](https://github.com/ideasrul
 
 ### Retrieval Codes
 
-This is a list of currently available open source atmospheric retrieval codes.
+This is a list of currently available open source atmospheric retrieval codes. (Out of date as of 2024!)
 
 Code | Paper(s)
 ---- | --------
